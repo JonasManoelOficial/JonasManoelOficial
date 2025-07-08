@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<p >Eu sou  o Jonas Manoel, sou Programador Front-End, atualmmente estou aprendendo e criando alguns projetos com:</p> 
+<p >Eu sou  o Jonas Manoel, sou Programador Front-End, atualmente estou aprendendo e criando alguns projetos com:</p> 
         <br>
         <br>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
